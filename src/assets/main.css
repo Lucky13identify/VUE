@@ -1,0 +1,53 @@
+@import "./base.css";
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul {
+  margin: 0;
+}
+
+.container,
+.sidebar-container,
+.content-container {
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 360px) {
+  .container,
+  .sidebar-container,
+  .content-container {
+    width: 360px;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .container {
+    width: 1440px;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .sidebar-container {
+    width: 300px;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .content-container {
+    width: 891px;
+  }
+}
