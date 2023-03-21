@@ -1,29 +1,30 @@
-# news-app
+# News
 
-This template should help get you started developing with Vue 3 in Vite.
+## Table of Contents
 
-## Recommended IDE Setup
+- [General Info](#general-information)
+- [Technologies Used](#technologies-used)
+- [Contact](#contact)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## General Information
 
-## Customize configuration
+- Welcome to my news page project!
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- This project was created with a focus on providing a high-quality user experience with a valid, cross-browser, and semantic layout. It is adaptive and pixel-perfect, ensuring that it looks great on any screen width.
 
-## Project Setup
+- To achieve this, I used Vue.js, SCSS, and BEM. These technologies helped me to create a flexible and maintainable codebase, making it easier to update and improve the project in the future.
 
-```sh
-npm install
-```
+- I am proud of the result of this project, and I hope you enjoy exploring the site. Feel free to provide any feedback or suggestions on how to improve it further.
 
-### Compile and Hot-Reload for Development
+## Technologies Used
 
-```sh
-npm run dev
-```
+- HTML
+- CSS
+- SCSS
+- BEM
+- JavaScript
+- Vue js
 
-### Compile and Minify for Production
+## Contact
 
-```sh
-npm run build
-```
+Created by [Artem Teslenko](https://t.me/artemTeslenkoW126) - feel free to contact me!
